@@ -1,0 +1,26 @@
+body {        
+  background-color: rgb(200, 232, 228);
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 40px;
+  height: 0px;
+  border-color: rgba(178, 173, 173, 0.447);
+}
+
+h1 {
+  color: rgba(33, 83, 123, 0.822);
+  font-family: cursive;  
+}
+
+h3 {
+  color: rgb(1, 116, 151);
+  font-family: cursive;  
+}
+
+h4 {
+  color: rgba(1, 71, 151, 0.566);
+  font-family: cursive;  
+}
