@@ -1,0 +1,13 @@
+h1{
+  color: red;
+}
+
+p{
+  color: rgb(55, 134, 19);
+  font-size: larger;
+  font-style: italic;
+}
+
+body{
+  background-color: aquamarine;
+}
