@@ -1,3 +1,22 @@
-body{
-  background-color: blue;
+* {
+  margin: 0px;
+  padding: 0px;
 }
+
+
+div {
+  background-color: #b9f8d3; 
+}
+
+.middle-container {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.bottom-container {
+  background-color: rgb(50, 12, 189);
+  width: 100px;
+  height: 100px;
+}
+
